@@ -21,7 +21,7 @@ This Python script implements a simple Etch-a-Sketch application using the Turtl
 4. Run the script using Python:
 
    ```
-   python etch_a_sketch.py
+   python Etch a Sketch app.py
    ```
 
 5. Use the arrow keys to control the turtle and draw on the canvas.
